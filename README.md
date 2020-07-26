@@ -8,7 +8,7 @@ Currently only Windows 10 is supported (.NET 4.5). Solution was created in Visua
 
 ![Icons](/Docs/screen1.png)
 
-* Right-click ay icon to open menu:
+* Right-click any icon to open menu:
 
 ![Menu](/Docs/Screen3.png)
 
